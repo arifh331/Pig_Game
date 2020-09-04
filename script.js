@@ -1,4 +1,6 @@
 /*
+This is coded by Arif Howlader but it is also part of Jonas Schmedtmann's course 
+//on web-development. I also recieved alot of guidance from the forums of that web-development course
 GAME RULES:
 
 - The game has 2 players, playing in rounds
